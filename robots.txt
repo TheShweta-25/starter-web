@@ -1,3 +1,4 @@
 # robotstxt.org/
 
 User-agent: *
+Addings robot details in the file
