@@ -2,3 +2,4 @@
 
 User-agent: *
 Addings robot details in the file
+Robots are being stashed.
