@@ -7,4 +7,4 @@ Using this tool I can do some changes in the current directory and push it on th
 ##GitHub
 Please fork this repository and pull request for review.
 ##Knowledge
-2021 Copyright
+2021 Copyright. All rights are reserved.
